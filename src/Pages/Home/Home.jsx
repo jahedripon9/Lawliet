@@ -1,4 +1,4 @@
-import Hero from "../Hero/hero"
+import Hero from "../Hero/Hero.jsx";
 import Questions from "../Questions/Questions"
 import Services from "../Services/Services"
 import StatsSection from "../StatsSection/StatsSection"
